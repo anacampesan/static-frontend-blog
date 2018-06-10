@@ -1,12 +1,18 @@
 <template>
     <div>
-        HEADER
-        <post></post>
-        FOOTER
+        <Header></Header>
+
+        <div>
+
+        </div>
+
+        <Footer></Footer>
     </div>
 </template>
 
 <script>
+    import Header from '../partials/Header';
+    import Footer from '../partials/Footer';
     import Post from '../Post';
 
     export default {
@@ -16,6 +22,6 @@
 
             }
         },
-        components: { Post }
+        components: { Header, Post, Footer}
     }
 </script>
