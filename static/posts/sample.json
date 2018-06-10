@@ -1,0 +1,27 @@
+{
+  "title": "Sample Post",
+  "subtitle": "My super sample post",
+  "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At beatae dolorem enim facere harum libero magnam modi natus odio praesentium, qui repellendus soluta! Aperiam assumenda earum, hic ipsam praesentium vitae.",
+  "tags": ["posts", "sample", "blog", "tags"],
+  "body": [
+    {
+      "subtitle": "Item 1",
+      "paragraphs": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid architecto asperiores assumenda eligendi, error eveniet excepturi fuga iste nam nemo nulla odio quia, tempore velit vero vitae voluptas voluptatibus?",
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid architecto asperiores assumenda eligendi, error eveniet excepturi fuga iste nam nemo nulla odio quia, tempore velit vero vitae voluptas voluptatibus?"
+      ]
+    },
+    {
+      "subtitle": "Item 2",
+      "paragraphs": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid architecto asperiores assumenda eligendi, error eveniet excepturi fuga iste nam nemo nulla odio quia, tempore velit vero vitae voluptas voluptatibus?"
+      ]
+    },
+    {
+      "subtitle": "Item 3",
+      "paragraphs": [
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid architecto asperiores assumenda eligendi, error eveniet excepturi fuga iste nam nemo nulla odio quia, tempore velit vero vitae voluptas voluptatibus?"
+      ]
+    }
+  ]
+}
