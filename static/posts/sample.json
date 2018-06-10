@@ -1,6 +1,8 @@
 {
   "title": "Sample Post",
   "subtitle": "My super sample post",
+  "date": "1528600711135",
+  "image": "",
   "summary": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At beatae dolorem enim facere harum libero magnam modi natus odio praesentium, qui repellendus soluta! Aperiam assumenda earum, hic ipsam praesentium vitae.",
   "tags": ["posts", "sample", "blog", "tags"],
   "body": [

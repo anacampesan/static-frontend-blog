@@ -16,7 +16,7 @@
 
 <script>
     export default {
-        name: 'HelloWorld',
+        name: 'Post',
         data() {
             return {
                 post: {}
@@ -26,7 +26,7 @@
             this.$http
                 .get('http://localhost:8080/static/posts/sample.json')
                 .then(response => {
-                    this.post = response.data
+                    this.post = response.data;
                 });
         }
     }
